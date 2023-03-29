@@ -1,4 +1,6 @@
-### Hi! I am Gleice Lisbino
+### Hi! I am Gleice Lisbino 🤍
+#### 💻 I’m currently working in a European company
+#### 👩🏼‍🔬 I’m currently learning about Microservices and Data Science
 
 ##
 
@@ -8,6 +10,13 @@
   <img align="center" alt="Kelly-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Kelly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kelly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+ ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/gleice-lisbino-88547618b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
 <!--
