@@ -17,14 +17,3 @@
   <a href="https://www.instagram.com/kellylisbino/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
 </div>
-
-<!--
-**gleicelisbino/gleicelisbino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Snake animation](https://github.com/gleicelisbino/gleicelisbino/blob/output/github-contribution-grid-snake.svg)
-Here are some ideas to get you started:
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
