@@ -1,4 +1,4 @@
-### Hi! I am Gleice Lisbino 🤍
+### Hi! I am Kelly Lisbino 🤍
 #### 💻 I’m currently working in a European company with Back-end Java
 #### 👩🏼‍🔬 I’m currently learning about Microservices and Data Science
 
