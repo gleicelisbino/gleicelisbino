@@ -5,9 +5,8 @@
 </div>
 
 ##
+#### 👩🏼‍🔬 Computer Scientist
 #### 💻 I’m currently working in a European company with Back-end Java
-#### 👩🏼‍🔬 I’m currently learning about Microservices and Data Science
-
 ##
 
 <p align="center">
