@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi! I am Kelly Lisbino 🤍
+### Hi, I am Kelly Lisbino 🤍
 
 </div>
 
