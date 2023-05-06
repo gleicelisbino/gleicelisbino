@@ -5,9 +5,9 @@
 </div>
 
 ##
-#### 👩🏼‍🔬 Computer Scientist
+#### 👩🏼‍🔬 Computer Scientist working in BTC prediction
 #### 💻 I’m currently working in a European company with Back-end Java
-#### 💻 In my free time, I write Python code for predictive models
+#### 💻 In my free time, I write Python code for predictive models. 
 <p align="center">
   <img alt="Kelly-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img alt="Kelly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
