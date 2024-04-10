@@ -6,7 +6,7 @@
 
 ##
 #### 👩🏼‍🔬 Computer Scientist
-#### 💻 At the moment, I am proud to be part of the Accenture team, where I contribute as a Senior Back-end Java Developer. My role involves crafting sophisticated solutions and addressing complex challenges in software development.
+#### 💻 At the moment, I am proud to be part of the Boticario team, where I contribute as a Senior Back-end Java Developer. My role involves crafting sophisticated solutions and addressing complex challenges in software development.
 <p align="center">
   <img alt="Kelly-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img alt="Kelly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
